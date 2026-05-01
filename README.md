@@ -154,7 +154,7 @@ Swiggy generates massive volumes of transactional data daily across hundreds of 
 ## 🖼️ Screenshots
 
 ### Main Dashboard
-![Swiggy Dashboard](./assets/swiggy_dashboard.png)
+![Swiggy Dashboard](https://github.com/ANALYST-AHTESHAM/Swiggy-Data-Analysis/blob/main/Swiggy%20dashboard.png)
 
 > *Full interactive dashboard showing KPI cards, pie chart, map, monthly trend, and restaurant-level bar chart.*
 
@@ -201,8 +201,8 @@ This project is licensed under the [MIT License](./LICENSE).
 ## 🙋‍♂️ Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: (https://github.com/ANALYST-AHTESHAM/Swiggy-Data-Analysis)
+- LinkedIn: (www.linkedin.com/in/analyst-ahtesham)
 
 ---
 
